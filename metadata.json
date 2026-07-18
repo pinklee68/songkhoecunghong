@@ -1,0 +1,6 @@
+{
+  "name": "Sống Khỏe Cùng Hồng",
+  "description": "Trang giới thiệu sản phẩm chăm sóc sức khỏe thiên nhiên cao cấp và cộng đồng Sống Khỏe Cùng Hồng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

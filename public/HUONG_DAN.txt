@@ -1,0 +1,19 @@
+Chào chị Lê Thị Hồng,
+
+Thư mục này chứa các hình ảnh sản phẩm cho trang web của chị.
+Vui lòng tải các hình ảnh của chị vào thư mục này bằng Trình duyệt tệp (File Explorer) ở thanh bên trái của AI Studio.
+
+Chị hãy đặt tên các file ảnh trùng khớp như sau để hệ thống tự động hiển thị:
+- CND GINSENG: đặt tên là input_file_0.png (hoặc .jpg)
+- Tổ Yến Ăn Liền: đặt tên là input_file_1.png
+- Trà túi lọc Giải Độc Thái Bình: đặt tên là input_file_2.png
+- Trà túi lọc Xuyên Tâm Liên: đặt tên là input_file_3.png
+- Trà Dây Thìa Canh Linh Chi: đặt tên là input_file_4.png
+- Trà túi lọc Tía Tô: đặt tên là input_file_5.png
+- Trà túi lọc Cà Gai Leo: đặt tên là input_file_6.png
+- Trà túi lọc Đinh Lăng: đặt tên là input_file_7.png
+- Trà Dáng Tay Thi: đặt tên là input_file_8.png
+- Trà túi lọc Giác Tiên: đặt tên là input_file_9.png
+- NMI NutriOxy: đặt tên là input_file_10.png
+
+Khi chị tải đúng tên file vào thư mục này, hình ảnh sẽ lập tức hiển thị thay thế cho tấm thiệp minh họa thông minh!
